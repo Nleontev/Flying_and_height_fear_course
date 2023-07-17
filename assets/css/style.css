@@ -3,7 +3,7 @@ body{
     font-family: "Julius Sans One";
 }
 
-footer{
+header{
     width: 100%;
     height: 100px;
     background-color: #B2B8D6;
@@ -85,6 +85,7 @@ video {
     width: 100%;
     height: 700px;
     background-color: #B2B8D6;
+    border-bottom: 1px dotted black;
 }
 
 .strategy_image{
@@ -125,4 +126,37 @@ video {
 }
 .strategy_name{
     font-size: 20px;
+}
+.about_section{
+    width: 100%;
+    height: 530px;
+    background-color: #B2B8D6;
+}
+.about_text{
+    text-align: center;
+    padding-top: 20px;
+}
+.about_text h2{
+    margin-bottom:40px;
+    font-size: 30px;
+}
+.about_text p{
+    font-size: 20px;
+}
+.about_inf{
+    width: 80%;
+    display: flex;
+    justify-content:space-around;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.about_block{
+    background-color: #b6bad2;
+    width: 400px;
+    height: 300px;
+    border-radius: 5%;
+}
+footer{
+    width: 100%;
+    height: 100px;
 }
