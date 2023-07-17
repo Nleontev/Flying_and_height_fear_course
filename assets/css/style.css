@@ -6,7 +6,7 @@ body{
 footer{
     width: 100%;
     height: 100px;
-    background-color: #D0DBF0;
+    background-color: #B2B8D6;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -44,9 +44,9 @@ footer{
 .menu_list li a:hover{
     text-decoration:underline;
     opacity: 0.8;
-    transition: 1s;
     margin: 0;
 }
+
 .introduction{
     width: 100%;
     height: 650px;
@@ -70,7 +70,6 @@ video {
 
 .intro_text{
     text-align: center;
-    
 }
 .intro_text h1{
     margin-bottom: 30px;
@@ -78,4 +77,52 @@ video {
 }
 .intro_text p{
     font-size: 30px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.strategies_section{
+    width: 100%;
+    height: 700px;
+    background-color: #B2B8D6;
+}
+
+.strategy_image{
+    width: 280px;
+    height: 250px;
+    object-fit: cover;
+    transform:scale(1);
+    border-radius:5%;
+}
+.strategy_image:hover{
+    transform:scale(1.1);
+    transition: 0.4s;
+}
+.first_strategy{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.second_strategy{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.strategy_name{
+    text-align: center;
+}
+.strategy_section_headers{
+    text-align: center;
+    padding-top: 20px;
+}
+.motivation_expression{
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.strategies_implement{
+    font-size: 24px;
+}
+.strategy_name{
+    font-size: 20px;
 }
