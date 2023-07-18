@@ -6,7 +6,7 @@ body{
 header{
     width: 100%;
     height: 100px;
-    background-color: #B2B8D6;
+    background-color: #C1D6FF;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -23,9 +23,7 @@ header{
  }
 
 .logo_image img{
-    width: 50px;
-    border:1px solid black;
-    border-radius: 50%;
+    width: 80px;
     opacity: 0.9;
 }
 .logo{
@@ -131,6 +129,7 @@ video {
     width: 100%;
     height: 530px;
     background-color: #B2B8D6;
+    border-bottom: 0.5px dotted black;
 }
 .about_text{
     text-align: center;
@@ -155,8 +154,14 @@ video {
     width: 400px;
     height: 300px;
     border-radius: 5%;
+    border: 0.5px solid black;
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
 }
 footer{
     width: 100%;
     height: 100px;
+    background-color: #C1D6FF;
 }
