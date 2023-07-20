@@ -3,5 +3,5 @@ Fly with no fear is a course for those who dream of traveling, hiking at altitud
 ![image](https://github.com/Nleontev/Flying_and_height_fear_course/assets/100196079/83eb6715-bda5-44cf-9adf-72e27edbd509)
 
 # Existing Features
-Navigation bar
+Navigation bar                                                                                                                                                          
 This navigation contains the name of the course, its logo, by clicking on which you are transferred to this site, as well as links. First to the main page. The second is for the methods section, the third is for the about us section, and the fourth is for a separate registration page.
