@@ -568,6 +568,10 @@ footer{
     .strategy h4{
         font-size: 15px;
     }
+    .strategy p{
+        font-size: 10;
+        width: 90%;
+    }
     .follow{
         font-size: 11px;
         padding-left: 0;
