@@ -328,7 +328,7 @@ footer{
         width: 80px;
     }
     .menu_list{
-        font-size: 11px;
+        font-size: 14px;
         width: 40vh;
     }
     .course_name_and_logo{
@@ -386,7 +386,7 @@ footer{
         width: 80px;
     }
     .menu_list{
-        font-size: 10px;
+        font-size: 12px;
         width: 30vh;
     }
     header{
@@ -466,14 +466,19 @@ footer{
     }
     .contacts{
         padding-left: 0;
-        display: flex;
-        
+        display: flex;   
     }
     .cut_footer{
         width: 95%;
     }
     .contact_inf p{
         font-size: 13px;
+    }
+    .signup_pic{
+        display: none;
+    }
+    .vertical_align h2{
+        font-size: 22px;
     }
   }
   
@@ -596,5 +601,15 @@ footer{
         padding: 0;
         display: flex;
         justify-content: center;
+    }
+    .signup_pic{
+        display: none;
+    }
+    .vertical_align h2{
+        font-size: 20px;
+        width: 190px;
+    }
+    .vertical_align label{
+        font-size: 14px;
     }
 }
