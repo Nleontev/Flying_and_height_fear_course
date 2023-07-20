@@ -52,30 +52,49 @@ In my opinion, I have no bugs left
 
 # Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
+
 In the GitHub repository, navigate to the Settings tab
+
 From the source section drop-down menu, select the Master Branch
+
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
 The live link can be found here - https://nleontev.github.io/Flying_and_height_fear_course/index.html
 # Credits
 Content
 
 The icons in the footer were taken from Font Awesome
+
 An idea of creating about us section was taken from https://www.figma.com/community/file/1072779589211538230
+
 Data about 3 methods from a stratefy section i took from a chatgpt and he refused to give links to them
+
 An idea for a signup section i took from a https://www.figma.com/community/file/1243245722750540384
+
 and for inputs and labels i used a little bit of code from love running session
+
 I used this few clevel links from my mentor
+
 https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md
+
 https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488
+
 https://jigsaw.w3.org/css-validator/
 
 Media
 
 The logo from the footer was takrn from https://www.flaticon.com/free-icon/airplane_3534286
+
 The video on a main page was taken from https://www.flaticon.com/free-icon/airplane_3534286
+
 Three logos from a strtategy section were taken from
+
 https://www.sandstonecare.com/blog/cognitive-restructuring-cbt/
+
 https://www.theguardian.com/lifeandstyle/2020/jul/12/are-breathing-techniques-good-for-your-health
+
 https://www.verywellmind.com/virtual-reality-therapy-may-be-a-viable-option-5215913
+
 I used a few tips from this website as well https://www.colorabout.com/color/hex/b2b8d6/
+
 The picture with clouds from the sign up section i took from https://theconversation.com/curious-kids-what-is-the-sky-157834
