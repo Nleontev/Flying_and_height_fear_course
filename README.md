@@ -83,7 +83,7 @@ https://jigsaw.w3.org/css-validator/
 
 Media
 
-The logo from the footer was takrn from https://www.flaticon.com/free-icon/airplane_3534286
+The logo from the footer was taken from https://www.flaticon.com/free-icon/airplane_3534286
 
 The video on a main page was taken from https://www.flaticon.com/free-icon/airplane_3534286
 
