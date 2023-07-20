@@ -12,7 +12,7 @@ header{
     align-items: center;
 }    
 .course_name_and_logo{
-    width: 20vw;
+    width: 30vw;
     display: flex;
     justify-content: flex-end;
 }
@@ -20,6 +20,7 @@ header{
     font-size: 25px;
     width: 120px;
     margin-right: 20px;
+    padding-top: 5px;
  }
 
 .logo_image img{
@@ -267,30 +268,48 @@ footer{
     font-weight: bold;
 }
 
-@media screen and (max-width: 1200px) {
-.course_name{
-    font-size: 21px;
-}
-.menu_list{
-    font-size: 14px;
-    margin-right: 20px;
-    
-}
-.menu_list li {
-    margin-right: 10px;
-}
-.logo_image img{
-    width: 70px;
-}
-header{
-    height: 80px;
-}
-.course_name_and_logo{
-    width: 30vw;
-}
-}
 
-@media screen and (max-width: 900px) {
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    .course_name{
+        font-size: 21px;
+    }
+    .menu_list{
+        font-size: 15px;
+        margin-right: 20px;
+        
+    }
+    .menu_list li {
+        margin-right: 10px;
+    }
+    .logo_image img{
+        width: 70px;
+    }
+    header{
+        height: 80px;
+    }
+    .course_name_and_logo{
+        width: 30vw;
+    }
+    
+    .intro_text h1{
+        font-size: 36px;
+    }
+    .intro_text p{
+        font-size: 28px;
+    }
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
     .course_name{
         font-size: 16px;
         width: 80px;
@@ -302,9 +321,27 @@ header{
     .course_name_and_logo{
         width: 30vw;
     }
-}
-
-@media screen and (max-width: 700px) {
+    header{
+        height: 70px;
+    }
+    .logo_image img{
+        width: 70px;
+    }
+    .intro_text h1{
+        font-size: 32px;
+    }
+    .intro_text p{
+        font-size: 24px;
+    }
+  }
+  
+ 
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
     .course_name{
         font-size: 13px;
         width: 80px;
@@ -319,10 +356,24 @@ header{
     .logo_image img{
         width: 50px;
     }
-  
-}
 
-@media screen and (max-width: 500px) {
+    .intro_text h1{
+        font-size: 26px;
+        width: 90%;
+        margin: 0 auto 30px auto;
+    }
+    .intro_text p{
+        font-size: 18px;
+    }
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
     .course_name{
         font-size: 9px;
         margin-right: 8px;
@@ -343,5 +394,11 @@ header{
     }
     .course_name_and_logo{
         width: 100px;
-    } 
+    }  
+    .intro_text h1{
+        font-size: 24px;
+    }
+    .intro_text p{
+        font-size: 15px;
+    }
 }
