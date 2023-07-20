@@ -27,7 +27,7 @@ In this section, I have described three main methods that are used in our course
 
 ![image](https://github.com/Nleontev/Flying_and_height_fear_course/assets/100196079/d9e36dcc-a7df-44f0-b422-33d3dfd9c3e7)
 
-Fotter
+Footer
 
 This footer is made to provide users with additional contact information in case something is not clear to them. And also learn something new and useful by following the link to our social networks.
 
@@ -39,20 +39,43 @@ This section has been made a separate page for greater user convenience. Provide
 
 ![image](https://github.com/Nleontev/Flying_and_height_fear_course/assets/100196079/5d4aa72a-8f02-4546-aa5a-006a1a2b7984)
 
-#Testing
+# Testing
 While developing this project, I very often changed the look of the layout already at the coding stage, because it looked worse to me on the screen than on the layout, and I brought it to the ideal in my opinion. In my view, everything should work as it works now, because that's how it was intended by me, I ran tests during development and fixed all the errors that appeared on the way, I wanted to introduce the use of grids, but I didn’t master them enough.I have been testing how my course works on different devices long and hard and found bugs many times, especially on the smallest size, even after the submission, because there it is easiest not to notice the error. Now it works great on all screen sizes.I met an interesting case. When I was working on the strategy section, I initially created the methods themselves in two divs, but then I realized that this would interfere with me when I did the responsiveness and I thought it would take a lot of time to rework, but with the help of flex I fixed it much faster than I expected.
 
-#Validator Testing
+# Validator Testing
 No errors were returned when passing through the official W3C validator
 
 No errors were found when passing through the official (Jigsaw) validator
 
-#Unfixed Bugs
+# Unfixed Bugs
 In my opinion, I have no bugs left
 
-#Deployment
+# Deployment
 The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - https://nleontev.github.io/Flying_and_height_fear_course/index.html
+# Credits
+Content
+
+The icons in the footer were taken from Font Awesome
+An idea of creating about us section was taken from https://www.figma.com/community/file/1072779589211538230
+Data about 3 methods from a stratefy section i took from a chatgpt and he refused to give links to them
+An idea for a signup section i took from a https://www.figma.com/community/file/1243245722750540384
+and for inputs and labels i used a little bit of code from love running session
+I used this few clevel links from my mentor
+https://github.com/marcin-kli/MP1/blob/Milestone-Projects/README.md
+https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488
+https://jigsaw.w3.org/css-validator/
+
+Media
+
+The logo from the footer was takrn from https://www.flaticon.com/free-icon/airplane_3534286
+The video on a main page was taken from https://www.flaticon.com/free-icon/airplane_3534286
+Three logos from a strtategy section were taken from
+https://www.sandstonecare.com/blog/cognitive-restructuring-cbt/
+https://www.theguardian.com/lifeandstyle/2020/jul/12/are-breathing-techniques-good-for-your-health
+https://www.verywellmind.com/virtual-reality-therapy-may-be-a-viable-option-5215913
+I used a few tips from this website as well https://www.colorabout.com/color/hex/b2b8d6/
+The picture with clouds from the sign up section i took from https://theconversation.com/curious-kids-what-is-the-sky-157834
