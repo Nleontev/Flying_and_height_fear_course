@@ -311,6 +311,10 @@ footer{
         height: 250px;
         width: 350px;
     }
+    .strategy p{
+        margin-left: 0;
+        margin-right: 0;
+    }
   }
   
   /* 
@@ -357,6 +361,13 @@ footer{
     }
     .about_inf{
         width: 90%;
+    }
+    .strategies{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .strategies_section{
+         height: 1200px;
     }
   }
   
@@ -411,6 +422,26 @@ footer{
     }
     .about_section{
         height: 600px;
+    }
+    .motivation_expression{
+        font-size: 26px;
+    }
+    .strategies_implement{
+        font-size: 18px;
+    }
+    .strategies{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .strategies_section{
+         height: 1700px;
+    }
+    .second_strategy{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .second_strategy h4{
+        margin-top: 30px;
     }
   }
   
@@ -469,5 +500,28 @@ footer{
     }
     .about_section{
         height: 600px;
+    }
+    .motivation_expression{
+        font-size: 20px;
+    }
+    .strategies_implement{
+        font-size: 15px;
+    }
+    .strategies{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .strategies_section{
+         height: 1650px;
+    }
+    .second_strategy{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .second_strategy h4{
+        margin-top: 30px;
+    }
+    .strategy h4{
+        font-size: 15px;
     }
 }
